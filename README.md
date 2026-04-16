@@ -1,6 +1,6 @@
-# AI Lead Conversion Engine (v1 – Rule-Based Intelligence)
+# AI Lead Conversion Engine (v1 – Revenue Intelligence System)
 
-### Turn inbound leads into qualified opportunities — automatically.
+### Built for agencies that want to convert inbound leads into revenue — not just collect them.
 
 Most agencies don't have a lead problem.  
 They have a **conversion problem**.
@@ -33,6 +33,12 @@ All in real-time — without manual intervention.
 - Internal notification for high-value leads  
 
 ---
+
+## 🚀 What Makes This System Different
+
+Unlike typical automation workflows, this system is designed as a **decision engine**, not just a sequence of actions.
+
+It evaluates leads, classifies intent, and routes them based on revenue potential — automatically.
 
 ## 🧠 Why This Matters
 
@@ -149,3 +155,14 @@ Most agencies don’t lose leads due to traffic issues —
 they lose them due to **slow and inconsistent conversion systems**.
 
 This engine solves that problem at the infrastructure level.
+
+---
+
+## 📈 Ideal For Hiring Managers
+
+This project demonstrates:
+
+- System thinking  
+- Revenue-focused automation design  
+- CRM architecture skills  
+- AI-ready workflow design  
